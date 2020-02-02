@@ -1,0 +1,153 @@
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.vbproj.CoreCompileInputs.cache
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\wm180573\source\repos\Computing NEA\Computing NEA\obj\Debug\Computing NEA.pdb
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\ipr0z\source\repos\Computing NEA - current not working, issue with provider or smth-20191007T213403Z-001\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.CoreCompileInputs.cache
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+\\CCW03USR02\2018$\WM180573\Computer Science Year 2\NEA\OneDrive_2019-11-04\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.CoreCompileInputs.cache
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\exm\Downloads\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojResolveAssemblyReference.cache
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.Cache
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.CoreCompileInputs.cache
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\William Mireles NEA\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.Cache
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.CoreCompileInputs.cache
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+\\Ccw03usr02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+\\CCW03USR02\2018$\WM180573\William Mireles NEA-20191125T095320Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerMenu.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.QuotaCalculator.resources
+C:\Users\ipr0z\Downloads\Test version-20191205T174240Z-001\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffMenu.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerMenu.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.QuotaCalculator.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffMenu.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ResellCalculator.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AddGame.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AddToRecent.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.SearchGames.resources
+C:\Users\ipr0z\OneDrive\Desktop\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ViewRecentGames.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe.config
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.exe
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.pdb
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\Computing NEA.xml
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbprojAssemblyReference.cache
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AccCrea.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AddGame.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.AddToRecent.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerLogin.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.CustomerMenu.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Form1.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.Resources.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.QuotaCalculator.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ResellCalculator.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.SearchGames.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffLogin.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.StaffMenu.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ViewRecentGames.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.vbproj.GenerateResource.cache
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.exe
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.xml
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing NEA.pdb
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ViewCustDetails.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\bin\Debug\MongooseGames.accdb
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.UpdateCustDetails.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.ViewCustomerRequests.resources
+C:\Users\ipr0z\OneDrive\Desktop\will-master\will-master\Mongoose Games Project - William Mireles\Test version\Computing NEA - current not working, issue with provider or smth\Computing NEA\obj\Debug\Computing_NEA.RequestReply.resources

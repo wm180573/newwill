@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Computing NEA
+</name>
+</assembly>
+<members>
+<member name="T:Computing_NEA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Computing_NEA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Computing_NEA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.GamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.RecentGamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.GamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.RecentGamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.GamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.RecentGamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.GamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.RecentGamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Computing_NEA.MongooseGamesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Computing_NEA.MongooseGamesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Computing_NEA.MongooseGamesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.UpdateAll(Computing_NEA.MongooseGamesDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Computing_NEA.MongooseGamesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

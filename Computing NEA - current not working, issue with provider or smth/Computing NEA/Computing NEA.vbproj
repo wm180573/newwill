@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33132853-D12E-4BC3-B0C8-D204E9A696F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Computing_NEA.My.MyApplication</StartupObject>
+    <RootNamespace>Computing_NEA</RootNamespace>
+    <AssemblyName>Computing NEA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Computing NEA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Computing NEA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccCrea.Designer.vb">
+      <DependentUpon>AccCrea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AccCrea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGame.Designer.vb">
+      <DependentUpon>AddGame.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToRecent.Designer.vb">
+      <DependentUpon>AddToRecent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddToRecent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerLogin.Designer.vb">
+      <DependentUpon>CustomerLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMenu.Designer.vb">
+      <DependentUpon>CustomerMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteFromRequests.Designer.vb">
+      <DependentUpon>DeleteFromRequests.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteFromRequests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MongooseGamesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MongooseGamesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QuotaCalculator.Designer.vb">
+      <DependentUpon>QuotaCalculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuotaCalculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestReply.Designer.vb">
+      <DependentUpon>RequestReply.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RequestReply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResellCalculator.Designer.vb">
+      <DependentUpon>ResellCalculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResellCalculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchGames.Designer.vb">
+      <DependentUpon>SearchGames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchGames.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffLogin.Designer.vb">
+      <DependentUpon>StaffLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMenu.Designer.vb">
+      <DependentUpon>StaffMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCustDetails.Designer.vb">
+      <DependentUpon>UpdateCustDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCustDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCustDetails.Designer.vb">
+      <DependentUpon>ViewCustDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCustDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCustomerRequests.Designer.vb">
+      <DependentUpon>ViewCustomerRequests.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCustomerRequests.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewRecentGames.Designer.vb">
+      <DependentUpon>ViewRecentGames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewRecentGames.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AccCrea.resx">
+      <DependentUpon>AccCrea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGame.resx">
+      <DependentUpon>AddGame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddToRecent.resx">
+      <DependentUpon>AddToRecent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerLogin.resx">
+      <DependentUpon>CustomerLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMenu.resx">
+      <DependentUpon>CustomerMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteFromRequests.resx">
+      <DependentUpon>DeleteFromRequests.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuotaCalculator.resx">
+      <DependentUpon>QuotaCalculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestReply.resx">
+      <DependentUpon>RequestReply.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResellCalculator.resx">
+      <DependentUpon>ResellCalculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchGames.resx">
+      <DependentUpon>SearchGames.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffLogin.resx">
+      <DependentUpon>StaffLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMenu.resx">
+      <DependentUpon>StaffMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCustDetails.resx">
+      <DependentUpon>UpdateCustDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCustDetails.resx">
+      <DependentUpon>ViewCustDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCustomerRequests.resx">
+      <DependentUpon>ViewCustomerRequests.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewRecentGames.resx">
+      <DependentUpon>ViewRecentGames.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MongooseGamesDataSet.xsc">
+      <DependentUpon>MongooseGamesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MongooseGamesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MongooseGamesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MongooseGamesDataSet.xss">
+      <DependentUpon>MongooseGamesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MongooseGames.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
